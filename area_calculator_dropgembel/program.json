@@ -1,0 +1,6 @@
+{
+    "program": "area_calculator.aleo",
+    "version": "0.0.0",
+    "description": "Calculator circle & square Area",
+    "license": "MIT"
+}
